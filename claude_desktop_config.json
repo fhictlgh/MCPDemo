@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sales-analysis": {
+      "command": "c:\\Users\\Analyst\\OneDrive - Office 365 Fontys\\Sync\\25-26\\1\\Dev\\S6-BDA\\Explorations\\Unified View over Data in External Systems\\Possible Solution\\venv\\Scripts\\python.exe",
+      "args": [
+        "c:\\Users\\Analyst\\OneDrive - Office 365 Fontys\\Sync\\25-26\\1\\Dev\\S6-BDA\\Explorations\\Unified View over Data in External Systems\\Possible Solution\\mcp_server.py"
+      ]
+    }
+  }
+}

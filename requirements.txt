@@ -1,0 +1,11 @@
+# MCP Sales & Customer Analysis System - Dependencies
+# Python 3.10+ required
+
+# Flask web framework for REST APIs
+flask>=2.0.0
+
+# MCP Python SDK with CLI tools
+mcp[cli]>=1.0.0
+
+# HTTP requests library for MCP server to call Flask APIs
+requests>=2.28.0

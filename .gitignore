@@ -1,0 +1,28 @@
+# Python cache and build
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Jupyter/Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+SESSION_LOG.md
+
+# OneDrive temporary files
+~$*
+*.tmp
+
+# Environment / venv
+.env
+.venv/
+venv/
